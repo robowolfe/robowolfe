@@ -3,4 +3,4 @@ I'm a full-stack indie developer in the United States who loves to push the boun
 
 You can reach me at wesleyjwolfe@gmail.com
 
-I'm currently working on [tabcentral.org](https://tabcentral.org), a SaaS to improve and modernize speech and debate tournaments.
+I'm currently working on [tabcentral.com](https://tabcentral.com), a SaaS to improve and modernize speech and debate tournaments.
